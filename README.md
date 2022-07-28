@@ -1,4 +1,14 @@
+# Подготовка локального репозитория
+
+После клонирования:
+
+```console
+$ git config --local include.path ../.gitconfig
+```
+
+
 <div align="center">
+
 
 ![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/main/img/ods_stickers.jpg)
 
